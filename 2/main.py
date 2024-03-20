@@ -1,1 +1,1 @@
-print("Download from FTP snippet")
+print("s3 to Snowflake code")
